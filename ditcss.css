@@ -1,0 +1,30 @@
+.body {
+
+  background-color: White
+
+}
+
+.h2 {
+
+  color: blue;
+
+  border-color: white;
+
+  border-width: 20px;
+
+  border-style: solid;
+
+}
+
+.p{
+
+  color: black;
+
+}
+
+
+.override {
+
+  color:black !important;
+
+}​
